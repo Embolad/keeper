@@ -1,0 +1,17 @@
+h1 {
+  font-size: 34px;
+  color: red;
+}
+
+
+.cta_btn {
+  border: none;
+  padding: 15px 30px;
+  /* background-image: linear-gradient(blue, green); */
+  background: blue;
+  border-radius: 8px;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  font-family: "McLaren", cursive;
+}
